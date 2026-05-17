@@ -1,5 +1,5 @@
-import { getFavicon, rAlert } from "./utils.mjs";
-import { getUV, search } from "./prxy.mjs";
+import { getFavicon, rAlert } from "https://cdn.jsdelivr.net/gh/blockfreeubg/flux-unblocker-static@main/active/scripts/utils.mjs";
+import { getUV, search } from "https://cdn.jsdelivr.net/gh/blockfreeubg/flux-unblocker-static@main/active/scripts/prxy.mjs";
 
 const { span, iframe, button, img } = van.tags;
 const {
