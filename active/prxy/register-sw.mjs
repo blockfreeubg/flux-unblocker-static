@@ -2,7 +2,7 @@
 /**
  * Distributed with Ultraviolet and compatible with most configurations.
  */
-const stockSW = "/active/uv/sw.js";
+const stockSW = "https://cdn.jsdelivr.net/gh/blockfreeubg/flux-unblocker-static@main/active/uv/sw.js";
 
 /**
  * List of hostnames that are allowed to run serviceworkers on http://
